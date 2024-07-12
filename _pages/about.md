@@ -19,9 +19,9 @@ EvoIPSLab
 
 <span style="color: navy">工作经历</span>
 ---
-+ 2036.07-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;郑州大学&nbsp;地球科学与技术学院&nbsp;教授  
-+ 2032.07-2036.06&nbsp;&nbsp;郑州大学&nbsp;地球科学与技术学院&nbsp;副教授  
-+ 2028.07-2032.06&nbsp;&nbsp;郑州大学&nbsp;地球科学与技术学院&nbsp;讲师  
++ 2034.07-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;郑州大学&nbsp;地球科学与技术学院&nbsp;教授  
++ 2030.07-2034.06&nbsp;&nbsp;郑州大学&nbsp;地球科学与技术学院&nbsp;副教授  
++ 2026.07-2030.06&nbsp;&nbsp;郑州大学&nbsp;地球科学与技术学院&nbsp;讲师  
 
 <span style="color: navy">学术相关</span>
 ---
