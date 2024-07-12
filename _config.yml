@@ -11,9 +11,9 @@ title                    : "首页"
 title_separator          : "-"
 name                     : &name " "
 description              : &description " "
-url                      : https://aiipslab.github.io
+url                      : https://evoips.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aiipslab/aiipslab.github.io"
+repository               : "evoips/evoips.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   wechat           : wojiaocaoxin
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=5iI5G0IAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "aiipslab@163.com"
+  email            : "evoips@163.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aiipslab"
+  github           : "evoips"
   google_plus      :
   keybase          :
   instagram        :
